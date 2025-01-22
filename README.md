@@ -1,2 +1,0 @@
-# TVWpisomka
-subory k pisomke
